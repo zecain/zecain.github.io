@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 认识自己，凡事有度
 
-You can use the [editor on GitHub](https://github.com/zecain/zecain.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+这里讲是我的一个个人形象展示主页
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
